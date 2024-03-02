@@ -1,25 +1,14 @@
-# Project 7 - *Tasky*
-
-Submitted by: **Abinaya Damodaran**
+# *Tasky*
 
 **Tasky** is an app that allows you to record your to-dos.
 
-Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+## Features
 
 - [x] App displays a list of tasks
 - [x] Users can add tasks to the list
-- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app). Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks    
-
-
-The following **additional** features are implemented:
-
 - [x] Tasks can be toggled completed
 - [x] User can edit tasks by tapping on the task in the feed view
 
